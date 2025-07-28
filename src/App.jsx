@@ -1,7 +1,8 @@
 import React from 'react';
+import BadmintonBookingSystem from './BadmintonBookingSystem';
 
 function App() {
-  return <h1>これはテスト表示です</h1>;
+  return <BadmintonBookingSystem />;
 }
 
 export default App;

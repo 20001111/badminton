@@ -1,8 +1,5 @@
-import React from 'react';
-import BadmintonBookingSystem from './BadmintonBookingSystem';
-
 function App() {
-  return <BadmintonBookingSystem />;
+  return <h1>Hello from React!</h1>;
 }
 
 export default App;
